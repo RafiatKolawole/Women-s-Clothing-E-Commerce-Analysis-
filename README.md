@@ -28,4 +28,4 @@ The dashboard helps visualize patterns in reviews, identify sentiment trends, an
 This analysis helps businesses understand how customers truly feel beyond star ratings, recognize top-performing product categories, and identify opportunities to improve products and overall shopping experience.
 
 ## Dashboard Preview
-*(Insert Power BI dashboard screenshots here)*
+![Dashboard Preview](IMG_5767.jpeg)
