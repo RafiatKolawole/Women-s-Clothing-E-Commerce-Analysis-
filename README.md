@@ -1,31 +1,67 @@
-# Customer Feedback Analysis – Women’s Clothing E-Commerce
+# Women's Clothing E-Commerce Customer Feedback Analysis
 
 ## Project Overview
-Understanding customer feedback is key to improving product quality and the overall shopping experience. In this project, I analyzed customer reviews and ratings from a women’s clothing e-commerce platform to uncover the key drivers of satisfaction and customer recommendations.
 
-The dashboard helps visualize patterns in reviews, identify sentiment trends, and pinpoint areas for product or service improvement.
-
-## Tools Used
-- Power BI
-- Data Cleaning & Transformation
-- Sentiment Analysis
-- Data Visualization
-- Customer Experience Insights
+This project analyzes over 23,000 customer reviews from a women's clothing e-commerce company to understand customer satisfaction, product performance, and recommendation patterns. Using Microsoft Excel, the dashboard uncovers insights into customer ratings, product recommendations, department performance, and customer feedback to support data-driven business decisions.
 
 ## Objectives
-- Analyze customer reviews and ratings to uncover satisfaction drivers
-- Identify patterns in positive and negative feedback
-- Highlight high-performing product divisions
-- Provide actionable insights to improve customer experience
 
-## Key Insights
-- Over **23,000 reviews** were analyzed, with an **average rating of 4.2**, indicating generally high customer satisfaction  
-- **Positive sentiment dominates (77.5%)**, showing that most customers had a good shopping experience  
-- **Lower ratings sometimes revealed more detailed feedback**, highlighting specific areas for improvement  
-- Certain **product divisions consistently performed better** in terms of satisfaction and recommendation rates  
+- Analyze customer ratings across product categories.
+- Identify the most recommended product categories.
+- Examine review distribution across departments.
+- Explore the relationship between customer ratings and recommendations.
+- Analyze positive customer feedback by product category.
+- Compare average ratings across product divisions.
 
-## Business Impact
-This analysis helps businesses understand how customers truly feel beyond star ratings, recognize top-performing product categories, and identify opportunities to improve products and overall shopping experience.
+## Tools & Technologies
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Power Query
+
+## Dashboard Features
+
+- KPI Cards displaying:
+  - Total Reviews
+  - Average Rating
+  - Average Positive Feedback Count
+  - Recommendation Rate
+  - Total Recommendations
+- Top 5 Product Categories by Average Rating
+- Number of Recommendations by Product Category
+- Number of Reviews by Department
+- Relationship Between Ratings and Recommendations
+- Total Positive Feedback by Product Category
+- Average Rating by Division
+- Interactive slicers for:
+  - Rating
+  - Division Name
+  - Department Name
+  - Class Name
+
+## Key Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Power Query
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design
+- Data Visualization
+- Business Intelligence
+- Customer Experience Analytics
+- Exploratory Data Analysis
+
+## Repository Contents
+
+- Women's Clothing E-Commerce Analysis.xlsx
+- CLEANED_DATA.csv
+- DASHBOARD.png
+- BUSINESS_QUESTIONS.pdf
+- EXECUTIVE_SUMMARY.pdf
 
 ## Dashboard Preview
-![Dashboard Preview](IMG_5767.jpeg)
+
+![Women's Clothing Dashboard](women's clothing DASHBOARD.png)
