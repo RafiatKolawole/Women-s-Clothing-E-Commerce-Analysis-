@@ -64,4 +64,4 @@ This project analyzes over 23,000 customer reviews from a women's clothing e-com
 
 ## Dashboard Preview
 
-![Women's Clothing E-Commerce Analysis Dashboard](women's clothing DASHBOARD.png)
+![Women's Clothing E-Commerce Dashboard](women's clothing DASHBOARD.png)
